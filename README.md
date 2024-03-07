@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**LorenzoAicardi/LorenzoAicardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Masters Computer Science student at Politecnico di Milano. Here is a list of the projects I contributed to:
 
-Here are some ideas to get you started:
+##### From The Dead
+This is a roguelite shooter developed for the Videogame Design and Programming 2023/2024 edition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/davide-mozzi/FromTheDead
+
+##### Robotics projects
+The 2 projects involve odometry computation and amcl-based localization.
+
+https://github.com/LacavaMarco/Robotics-project-2022
+
+##### API project
+The API project developed during the 2021 academic year.
+
+https://github.com/LorenzoAicardi/apiproject2021
+
+##### DnD telegram bot
+This is a Telegram bot developed for playing a (simple) version of Dungeons & Dragons.
+
+https://github.com/LorenzoAicardi/dndTelegramBot
+
+##### Eryantis
+A digital version of the board game Eryantis developed for the Software Engineering 2021/2022 course.
+
+https://github.com/FedericoArcelaschi-Polimi/ingsw2022-AM01
