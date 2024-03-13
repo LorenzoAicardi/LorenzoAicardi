@@ -3,7 +3,7 @@
 I'm a Masters Computer Science student at Politecnico di Milano. Here is a list of the projects I contributed to:
 
 ##### From The Dead
-This is a roguelite shooter developed for the Videogame Design and Programming 2023/2024 course.
+From The Dead is a roguelite shooter developed for the Videogame Design and Programming 2023/2024 course.
 
 https://github.com/davide-mozzi/FromTheDead
 
