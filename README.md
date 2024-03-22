@@ -1,4 +1,4 @@
-## Hello!
+## Hi!
 
 I'm a Masters Computer Science student at Politecnico di Milano. Here is a list of the projects I contributed to:
 
@@ -13,7 +13,7 @@ The 2 projects involve odometry computation and amcl-based localization.
 https://github.com/LacavaMarco/Robotics-project-2022
 
 ##### API project
-The API project developed during the 2021 academic year.
+The Algortihms and Principles of Informatics project developed during the 2021 academic year.
 
 https://github.com/LorenzoAicardi/apiproject2021
 
