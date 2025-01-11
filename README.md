@@ -7,10 +7,10 @@ From The Dead is a roguelite shooter developed for the Videogame Design and Prog
 
 https://github.com/davide-mozzi/FromTheDead
 
-##### Robotics projects
-The 2 projects involve odometry computation and amcl-based localization.
+##### Computer Graphics Project
+The Computer Graphics Project consists in a simple videogame developed using the graphics API Vulkan.
 
-https://github.com/LacavaMarco/Robotics-project-2022
+https://github.com/LorenzoAicardi/CG-Project
 
 ##### API project
 The Algortihms and Principles of Informatics project developed during the 2021 academic year.
@@ -26,3 +26,7 @@ https://github.com/LorenzoAicardi/dndTelegramBot
 A digital version of the board game Eryantis developed for the Software Engineering 2021/2022 course.
 
 https://github.com/FedericoArcelaschi-Polimi/ingsw2022-AM01
+
+##### Image Analysis and Computer Vision Project
+The project involves finding the real 3D coordinates of a tennis ball from a single view video.
+https://github.com/LorenzoAicardi/TennisBounceDetector
