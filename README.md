@@ -29,4 +29,5 @@ https://github.com/FedericoArcelaschi-Polimi/ingsw2022-AM01
 
 ##### Image Analysis and Computer Vision Project
 The project involves finding the real 3D coordinates of a tennis ball from a single view video.
+
 https://github.com/LorenzoAicardi/TennisBounceDetector
